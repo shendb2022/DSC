@@ -1,2 +1,2 @@
 # DSC
-Code of the DSC method for hyperspectal target detection. The corresponding paper has beeen submitted to IGARSS 2022. To protect copyright, this code will be uploaded as soon as the paper is accepted.
+Code of the DSC method for hyperspectal target detection. Dunbin Shen, Xiaorui Ma, Hongyu Wang, Jianjun Liu, A Dual Sparsity Constrained Approach for Hyperspectral target detection[C]. IGARSS, 2022.
