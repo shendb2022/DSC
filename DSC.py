@@ -260,7 +260,7 @@ if __name__ == '__main__':
     T = At.dot(St)
     T = np.clip(T, 0, 1)
     ## get the detection result using L2-norm in the spectral dimension
-    detection_map = np.sqrt(np.sum(np.square(T ** 2), axis=0))
+    detection_map = np.sqrt(np.sum(T ** 2, axis=0))
 
     end = time.perf_counter()
     ## calculte the running time
